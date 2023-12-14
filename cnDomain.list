@@ -1,6 +1,17 @@
 # 直连列表
 
 # MyList
+DOMAIN-SUFFIX,r.cc.cmbimg.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,8.95508.com
+DOMAIN-SUFFIX,opendata.baidu.com
+DOMAIN-SUFFIX,q.115.com
+DOMAIN-SUFFIX,yunmsg.115.com
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,ys7.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,bokecc.com
@@ -25,6 +36,7 @@ DOMAIN-SUFFIX,xn--55qx5d
 DOMAIN-SUFFIX,xn--io0a7i
 
 # 中国国内常见域名关键词直连
+DOMAIN-KEYWORD,cmbchina
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alimama
@@ -338,30 +350,23 @@ DOMAIN-SUFFIX,sohuno.com
 DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 
-# Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-
 # SteamCN
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamchina.com
-DOMAIN,csgo.wmsj.cn
-DOMAIN,dota2.wmsj.cn
-DOMAIN,wmsjsteam.com
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,xz.pphimalayanrt.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
+# DOMAIN-SUFFIX,cm.steampowered.com
+# DOMAIN-SUFFIX,steamcontent.com
+# DOMAIN-SUFFIX,steamusercontent.com
+# DOMAIN-SUFFIX,steamchina.com
+# DOMAIN,csgo.wmsj.cn
+# DOMAIN,dota2.wmsj.cn
+# DOMAIN,wmsjsteam.com
+# DOMAIN,dl.steam.clngaa.com
+# DOMAIN,dl.steam.ksyna.com
+# DOMAIN,st.dl.bscstorage.net
+# DOMAIN,st.dl.eccdnx.com
+# DOMAIN,st.dl.pinyuncloud.com
+# DOMAIN,xz.pphimalayanrt.com
+# DOMAIN,steampipe.steamcontent.tnkjmec.com
+# DOMAIN,steampowered.com.8686c.com
+# DOMAIN,steamstatic.com.8686c.com
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
