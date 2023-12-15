@@ -1,3 +1,13 @@
+# mylist
+USER-AGENT,XmSDK*
+USER-AGENT,VideoGo*
+USER-AGENT,JD4iPhone*
+USER-AGENT,waimai*
+USER-AGENT,MicroMessenger*
+USER-AGENT,QQ*
+USER-AGENT,MicroMessenger Client
+USER-AGENT,WeChat*
+
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
