@@ -1,4 +1,4 @@
-# 直连列表
+# direct
 
 # MyList
 DOMAIN-SUFFIX,sdo.com
@@ -29,13 +29,13 @@ DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,zhenguanyu.com
 DOMAIN-SUFFIX,snapdrop.net
 
-# CN域名直连(中国|公司|网络)
+# CN
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--55qx5d
 DOMAIN-SUFFIX,xn--io0a7i
 
-# 中国国内常见域名关键词直连
+# cnlist
 DOMAIN-KEYWORD,manmanbuy
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,cmbchina
@@ -242,7 +242,7 @@ DOMAIN-SUFFIX,oppo.com
 DOMAIN-SUFFIX,oppoer.me
 DOMAIN-SUFFIX,oppomobile.com
 
-# Iflytek 科大讯飞
+# Iflytek 
 DOMAIN-SUFFIX,iflyink.com
 DOMAIN-SUFFIX,iflyrec.com
 DOMAIN-SUFFIX,iflytek.com
@@ -272,7 +272,7 @@ DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,ksyun.com
 
-# Kuaishou 快手
+# Kuaishou 
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,yximgs.com
 
@@ -282,7 +282,7 @@ DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meipai.com
 
-# LeTV 乐视
+# LeTV 
 DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,letv.com
@@ -291,7 +291,7 @@ DOMAIN-SUFFIX,letvimg.com
 DOMAIN-SUFFIX,letvlive.com
 DOMAIN-SUFFIX,letvstore.com
 
-# MGTV 芒果TV
+# MGTV 
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hunantv.com
 DOMAIN-SUFFIX,mgtv.com
@@ -320,7 +320,7 @@ DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,pptv.com
 
-# PDD 拼多多
+# PDD 
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,yangkeduo.com
 
@@ -391,17 +391,17 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
 
-# Vip 唯品会
+# Vip 
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vipstatic.com
 
-# Ximalaya 喜马拉雅
+# Ximalaya 
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 
-# Xunlei 迅雷
+# Xunlei 
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,kanimg.com
@@ -411,7 +411,7 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
-# YYeTs 人人影视
+# YYeTs 
 DOMAIN-SUFFIX,got001.com
 DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,rrys.tv
@@ -439,7 +439,7 @@ IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
 
-# Public Direct CDN 公共直连
+# Public Direct CDN 
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
 #DOMAIN-SUFFIX,cdnjs.cloudflare.com
